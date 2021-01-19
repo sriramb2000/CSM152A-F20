@@ -1,5 +1,5 @@
 # CS M152A Fall 2020
-This is my work from CS M152A, Fall 2020, with TA Mohit Garg.
+This is my work from CS M152A, Fall 2020, with TA Mohit Garg. Feel free to use this as a reference.
 
 ## Scores:
 Lab 1: 85
